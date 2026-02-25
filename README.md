@@ -33,3 +33,7 @@ Develop a modern data warehouse to consolidate sales data using SQL server, enab
 ## Licencing
 The project is licenced under the MIT Licence. You are free to use, modify and share this project with proper attribution.
 
+## About me!
+I am a data and tech enthusiast. Previously worked as a Business Analyst, AI/ML intern and HR Executive.
+My aim is to follow my passion, ie data!!
+
